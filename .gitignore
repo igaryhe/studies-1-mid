@@ -1,9 +1,9 @@
 out/
-.bcf
-.log
-.out
-.pdf
-.xml
-.aux
-.blg
-.bbl
+*.bcf
+*.log
+*.out
+*.pdf
+*.xml
+*.aux
+*.blg
+*.bbl
